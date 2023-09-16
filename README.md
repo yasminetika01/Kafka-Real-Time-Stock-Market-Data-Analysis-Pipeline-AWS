@@ -5,7 +5,7 @@ This project showcases the design and implementation of a robust real-time stock
 ## Architecture 
 <img src="Architecture.jpg">
 
-## Technology Used
+## Technologies Used
 - Programming Language - Python
 - Amazon Web Service (AWS)
 1. S3 
